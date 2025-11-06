@@ -1,21 +1,2 @@
 ## Abstract (Rest of paper in repo)
-This study investigates the relationship be-
-tween music genres and song lyrics, examining
-whether lyrics can reliably indicate a song’s
-genre and how effectively genre-specific lyrics
-can be generated. We utilized transformer-
-based models, employing BERT for genre clas-
-sification and GPT-2 for lyric generation, using
-a dataset of 2.94 million songs across various
-genres. Our approach integrates these tasks,
-evaluating the genre alignment of the gener-
-ated lyrics through classification. The results
-indicate that while BERT achieves reasonable
-classification accuracy, genre boundaries often
-blur, particularly for overlapping styles such as
-pop and rock. The generated lyrics partially
-align with the intended genres, as confirmed by
-automated classification and human evaluation
-but do not fully capture their intended genre.
-These findings highlight the nuanced interplay
-between lyrics and genre.
+This study investigates the relationship between music genres and song lyrics, examining whether lyrics can reliably indicate a song’s genre and how effectively genre-specific lyrics can be generated. We utilized transformer-based models, employing BERT for genre classification and GPT-2 for lyric generation, using a dataset of 2.94 million songs across various genres. Our approach integrates these tasks, evaluating the genre alignment of the generated lyrics through classification. The results indicate that while BERT achieves reasonable classification accuracy, genre boundaries often blur, particularly for overlapping styles such as pop and rock. The generated lyrics partially align with the intended genres, as confirmed by automated classification and human evaluation but do not fully capture their intended genre. These findings highlight the nuanced interplay between lyrics and genre.
